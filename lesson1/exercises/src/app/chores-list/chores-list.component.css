@@ -1,0 +1,14 @@
+.chores {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18 px;
+    color: red;
+    /* text-decoration-line: underline */
+};
+
+h3.movies {
+    text-decoration-line: underline;
+};
+
+li.chores {
+    font-style: italic;
+}
